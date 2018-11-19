@@ -1,4 +1,5 @@
 # Air Quality Index Crystal
+![gif](https://raw.githubusercontent.com/andrewlrogers/AQI_Crystal/master/AQI_Crystal.gif "A gif showing the crystal in action")
 #### About
 For the past week smoke and particulate matter from the Camp Fire in Northern California has lingered in San Francisco, creating a hazardous environment. The EPA ranks the air quality with the Air Quality Index, a value that ranges from 0 - 500. San Francisco often stays in the 'good' range of 0-50, but recently was in the 'very-unhealthy' range. School and businesses have been canceling activities and government officials are encouraging residents to shelter indoors and wear a NIOSH N95 mask when outdoors.
 
@@ -34,3 +35,4 @@ I explored Circuit Python because I was interested in using the Adafruit Fancy L
 
 ## Resources
 [airnowapi.org](https://airnowapi.org)
+[video trailer on Vimeo](https://vimeo.com/301542921)
