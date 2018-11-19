@@ -34,5 +34,5 @@ I explored Circuit Python because I was interested in using the Adafruit Fancy L
 
 
 ## Resources
-[airnowapi.org](https://airnowapi.org)
-[video trailer on Vimeo](https://vimeo.com/301542921)
+1. [airnowapi.org](https://airnowapi.org)
+3. [video trailer on Vimeo](https://vimeo.com/301542921)
